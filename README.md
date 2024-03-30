@@ -1,7 +1,7 @@
 # Chat App Android
 
 ## Introduction
-This is a demo chat app
+This is a demo Chat App
 #### Technologies
 Android, Kotlin
 
